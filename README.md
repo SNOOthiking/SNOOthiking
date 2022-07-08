@@ -3,6 +3,7 @@
 - 🌱 세상에는 다양한 데이터가 존재합니다.
 - 💞️ 그 작은 데이터들이 모여 강을 이루고 바다가 되어 우리에게 유용한 정보가 될 것입니다.
 - 📫 그 정보들을 잘 다루면 지혜가 됩니다. (사실 돈이 되는거죠.) 
+- ✨ 그 때 까지 잘 부탁 드립니다.
 
 <!---
 SNOOthiking/SNOOthiking is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
